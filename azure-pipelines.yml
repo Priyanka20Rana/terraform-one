@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  vmImage: rohil-practice-pool
+  name: rohil-practice-pool
 
 steps:
 - script: echo Hello, world!
